@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+  { "keys": ["ctrl+shift+k"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+shift+h"], "command": "select_lines", "args": {"forward": true} },
+]
